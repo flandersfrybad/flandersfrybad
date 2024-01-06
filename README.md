@@ -1,4 +1,4 @@
-👋 Hi, I’m @flandersfrybad
+👋 Hi, I’m @flandersfrybad\n
 👀 Interested in beginner friendly issues /contribute
 🌱 Currently learning python (leetcode) C SQL HTML CSS JavaScript Flask (CS50)
 💞️ Looking to collaborate on beginner, useful, or golf related
