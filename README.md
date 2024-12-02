@@ -1,6 +1,6 @@
 👋 Hi, I’m @flandersfrybad.
 
-👀 Interested in beginner friendly issues /contribute.
+👀 Interested in beginner friendly issues/contribute.
 
 🌱 Currently learning python (leetcode) C SQL HTML CSS JavaScript Flask (CS50).
 
