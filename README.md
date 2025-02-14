@@ -1,8 +1,8 @@
-👀 Hi, I’m @flandersfrybad.
+All credit goes to the rubber duck.  	:baby_chick:
 
-React next.js ladderly.io Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50.
+React Next.js ladderly.io Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50.
 
-golf related?
+Golf related?
 
 📫 iherdyou@gmail.com
 
