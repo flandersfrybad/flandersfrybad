@@ -1,10 +1,8 @@
-👋 Hi, I’m @flandersfrybad.
+👀 Hi, I’m @flandersfrybad.
 
-👀 Interested in beginner friendly issues/contribute.
+React next.js ladderly.io Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50.
 
-🌱 Currently learning python (leetcode) C SQL HTML CSS JavaScript Flask (CS50).
-
-💞️ Looking to collaborate on beginner, useful, or golf related.
+golf related?
 
 📫 iherdyou@gmail.com
 
