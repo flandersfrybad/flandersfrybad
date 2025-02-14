@@ -1,4 +1,5 @@
-The duck did it all. 🐤
+The duck did it all. 🐤![ddb50](https://github.com/user-attachments/assets/fb611492-5296-43c1-8226-b3cb42c32a58)
+
 
 React Next.js ladderly.io Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50.
 
