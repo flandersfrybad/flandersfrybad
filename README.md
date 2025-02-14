@@ -1,4 +1,4 @@
-All credit goes to the rubber duck.  	:baby_chick:
+The duck did it all. 🐤
 
 React Next.js ladderly.io Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50.
 
