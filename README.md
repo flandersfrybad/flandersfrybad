@@ -1,6 +1,6 @@
 The duck did it all. 🐤
 
-ECMAScript React Next.js ladderly.io Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50.
+ECMAScript React Next.js Python Flask C SQL SQLite3 Jinja HTML CSS Bootstrap JavaScript CS50 Scrimba.
 
 Golf related?
 
